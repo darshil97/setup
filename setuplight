@@ -1,0 +1,9 @@
+cd /home/pi/HAP-NodeJS
+sudo npm install node-cmd
+sudo mkdir python
+cd /home/pi/HAP-NodeJS/python
+sudo wget https://goo.gl/gVXDFw
+sudo mv gVXDFw light0.py
+sudo wget https://goo.gl/ojDhVH
+sudo mv ojDhVH light1.py
+echo "Process Complete :)"
