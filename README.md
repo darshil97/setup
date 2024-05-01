@@ -1,2 +1,2 @@
 # setup
-![Alt text](Poster-01.png?raw=true "Title")
+![Alt text](image.jpg?raw=true "Title")
